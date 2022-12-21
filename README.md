@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pardo24
-- 👀 I’m interested in ...
+- 👀 I’m interested coding in general, looking to learn more and more
 - 🌱 I’m currently learning advanced node.js
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me:

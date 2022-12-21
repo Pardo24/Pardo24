@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning advanced node.js
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me:
-                - Linkedin: https://www.linkedin.com/in/daniel-pardo-celaya/
-                - Mail: danielpc.144@gmail.com
+   - Linkedin: https://www.linkedin.com/in/daniel-pardo-celaya/
+   - Mail: danielpc.144@gmail.com
         
 
 <!---

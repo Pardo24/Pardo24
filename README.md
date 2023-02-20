@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Pardo24
-- 👀 I’m interested coding in general, currently deepening my understanding of my known languages
-- 🌱 I’m currently learning advanced node.js
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me:
-   - Linkedin: https://www.linkedin.com/in/daniel-pardo-celaya/
-   - Mail: danielpc.144@gmail.com
+- 👀 I love going to nature, reading novels and skating
+- 🌱 I’m currently learning advanced Node.js
+- 💞️ I’m open to collaborate
+- 📫 [Find me on Linkedin](https://www.linkedin.com/in/daniel-pardo-celaya/)
+
         
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pardo24
 - 🌱 I love going to nature, reading novels and skating
-- 👀 I’m currently learning advanced Node.js
+- 👀 I’m currently learning Fundamental Azure
 - 💞️ I’m open to collaborate
 - 📫 [Find me on Linkedin](https://www.linkedin.com/in/daniel-pardo-celaya/)
 

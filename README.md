@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pardo24
 - 🌱 I love going to nature, reading and skating
-- 👀 I’m currently learning C# and Nuxt 
+- 👀 I’m currently learning about Microservices.
 - 💞️ I’m open to collaborate
 - 📫 [Find me on Linkedin](https://www.linkedin.com/in/daniel-pardo-celaya/)
 
